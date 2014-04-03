@@ -21,6 +21,7 @@ rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
+url: http://ixdfan.github.com
 BASE_PATH: http://ixdfan.github.com
 
 # All links will be namespaced by BASE_PATH if defined.
