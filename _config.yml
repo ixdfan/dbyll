@@ -5,10 +5,10 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 pygments: true
 
-title: dbyll
+title: ixdfan
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
+  name: ixdfan
   email: dbyll@ismaildemirbilek.com
   github: dbtek
   twitter: asd123
@@ -22,13 +22,14 @@ categories_path: categories.html
 tags_path: tags.html
 
 url: http://ixdfan.github.com
-BASE_PATH: http://ixdfan.github.com
+
+BASE_PATH: http://ixdfan.com
 
 # All links will be namespaced by BASE_PATH if defined.
 # Links in your website should always be prefixed with {{ site.BASE_PATH }}
 # Do not put a "/" at the end of the url.
 #
-CNAME (http://ixdfan.com)
+# CNAME (http://ixdfan.com)
 #   DO NOT SET BASE_PATH JUST LEAVE IT BLANK 
 #   (urls will be prefixed with "/" and work relatively)
 #
